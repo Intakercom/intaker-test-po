@@ -24,8 +24,6 @@ This happens before we meet. Nobody watches you do it, and setup itself is not s
 
 **You understand the product from two sides.** From the UI: what a coordinator and a technician can actually do, what the different statuses mean, what happens when you switch profiles. From the code: roughly where things live and how a change travels from the screen to the database.
 
-**You have skimmed the challenge briefs.** They are in the repository and deliberately visible in advance. Preparing beyond a skim does not earn extra credit, and preparing answers in advance is not the point — we will ask follow-up questions.
-
 **Reset the product to the baseline state before interview.** Make sure that before the interview, you have the product in the baseline state as it comes from the repository. 
 
 Two things worth knowing now. **The app is intentionally incomplete, not broken** — some capabilities the briefs talk about simply do not exist yet, and that gap is the exercise. And **the code is the source of truth**: if a document and the code disagree, the code wins.
